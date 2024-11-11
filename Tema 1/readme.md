@@ -1,3 +1,5 @@
+# Estimarea probabilitatii pentru diferite maini de poker folosind metoda Monte Carlo
+
 __Jocul de barbut se joaca dupa urmatoarele reguli:__
 
 	- jocul nu este influentat de ordinea in care jucatorii arunca zarul
