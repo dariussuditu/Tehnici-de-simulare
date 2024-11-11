@@ -1,4 +1,4 @@
-# Estimarea probabilitatii pentru diferite maini de poker folosind metoda Monte Carlo
+# Estimarea probabilitatii castigarii unui joc de barbut folosind metoda Monte Carlo
 
 __Jocul de barbut se joaca dupa urmatoarele reguli:__
 
@@ -9,4 +9,4 @@ __Jocul de barbut se joaca dupa urmatoarele reguli:__
 	- daca niciunul din jucatori nu da dubla, atunci castiga cel cu suma zarurilor maxima
 	- daca suma zarurilor este egala se reia aruncarea dupa aceleasi reguli
 
-Pentru a estima probabilitatea de castig, ne propunem sa simulam jocul pentru cat mai multe scenarii.
+Pentru a estima probabilitatea de castig, ne propunem sa simulam jocul pentru cat mai multe scenarii. Prin simularea a 100.000 de jocuri obtinem o aproximare apropiata de valorile probabilistice.
